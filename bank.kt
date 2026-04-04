@@ -38,7 +38,7 @@ fun main() {
     bakiye = hisseSatis(bakiye,52.16,7)
     bakiyeGoster(bakiye)
 
-    println("=== İşlemler Tamamlandı ===")
+    println("--- İşlemler Tamamlandı ---")
 }
 
 
